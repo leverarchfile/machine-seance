@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you refer to this work, please cite it as below."
+type: software
+title: "Machine Séance"
+authors:
+  - family-names: Baldwin-Ramult
+    given-names: Leo
+    orcid: "https://orcid.org/0009-0003-5122-0871"
+    affiliation: "University of Auckland"
+repository-code: "https://github.com/leverarchfile/machine-seance"
+license: Apache-2.0
+date-released: 2026-10-31
+keywords:
+  - creative AI
+  - generative computer art
+  - speculative design
+  - psychoanalysis
+  - spiritualism
