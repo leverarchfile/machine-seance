@@ -1,0 +1,10 @@
+# memoir: source document, private glossary, and all generated output
+memoir/*.pdf
+memoir/glossary.md
+memoir/png/
+memoir/ocr/
+memoir/pl/
+memoir/en/
+memoir/en_reviewed/
+memoir/out/
+memoir/*.log
